@@ -711,42 +711,38 @@ Public Class Form1
 
 
 
-        Dim linhas As String = String.Empty
-        Dim link As String = String.Empty
-        'Dim conexao As New OleDbConnection
-
-        conexao.ConnectionString = "Provider=Microsoft.JET.OLEDB.4.0; data source=" & Application.StartupPath & "\VascoDaGama.mdb;"
-        linhas = "SELECT * FROM favoritos;"
-        Dim comando1 As New OleDbCommand(linhas, conexao)
-
-        conexao.Open()
-        'Dim lerDados As OleDbDataReader
-
-        'lerDados = comando.ExecuteReader()
+        'Dim linhas As String = String.Empty
+        'Dim link As String = String.Empty
 
 
-        Dim dataAdapter1 As New OleDbDataAdapter(comando1)
-        Dim dataTable1 As New DataTable()
+        'conexao.ConnectionString = "Provider=Microsoft.JET.OLEDB.4.0; data source=" & Application.StartupPath & "\VascoDaGama.mdb;"
+        'linhas = "SELECT * FROM favoritos;"
+        'Dim comando1 As New OleDbCommand(linhas, conexao)
+
+        'conexao.Open()
 
 
-        dataAdapter1.Fill(dataTable1)
+
+        'Dim dataAdapter1 As New OleDbDataAdapter(comando1)
+        'Dim dataTable1 As New DataTable()
 
 
-        Dim i As Integer = 0
-        ListView1.BackColor = Color.Aquamarine
+        'dataAdapter1.Fill(dataTable1)
 
-        For i = 0 To dataTable1.Rows.Count - 1
-            'For i = 0 To 50
 
-            'link = "SELECT url FROM favoritos WHERE titulo LIKE %url%;"
-            'Dim button1 As New Button
-            ListView1.Items.Add(CStr(dataTable1.Rows(i)("url").ToString))
+        'Dim i As Integer = 0
+        'ListView1.BackColor = Color.Aquamarine
 
-            'ListView1.Items.Add("titulo")
+        'For i = 0 To dataTable1.Rows.Count - 1
 
-        Next i
 
-        conexao.Close()
+        'ListView1.Items.Add(CStr(dataTable1.Rows(i)("url").ToString))
+
+
+
+        'Next i
+
+        'conexao.Close()
 
     End Sub
 
@@ -768,7 +764,7 @@ Public Class Form1
 
     Private Sub Button8_Click(sender As Object, e As EventArgs) Handles Button8.Click
         ListView1.Visible = True
-
+        ListView1.Refresh()
 
 
     End Sub
