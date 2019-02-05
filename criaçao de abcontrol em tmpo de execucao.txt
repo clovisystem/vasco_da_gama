@@ -1,0 +1,193 @@
+
+        Dim form As New TabPage
+        Dim net As New WebBrowser
+        Dim menu As New MenuStrip
+        Dim ToolStripMenuItem1 As New ToolStripMenuItem
+        Dim ToolStripMenuItem2 As New ToolStripMenuItem
+        Dim ConfiguraçõesToolStripMenuItem As New ToolStripMenuItem
+        Dim SairToolStripMenuItem As New ToolStripMenuItem
+        Dim ToolStripMenuItem4 As New ToolStripMenuItem
+        Dim painel As New Panel
+        Dim botao1 As New Button
+        Dim botao2 As New Button
+        Dim botao3 As New Button
+        Dim botao4 As New Button
+        Dim botao5 As New Button
+        Dim botao6 As New Button
+        Dim Caixa As New TextBox
+        Dim BarraProgresso As New ProgressBar
+        Dim form2 As New Form2
+        Dim texto As New TextBox
+
+        'AddHandler net.DocumentCompleted, AddressOf NET_DOCUMENTCOMPLETE
+
+
+        AddHandler Caixa.Click, AddressOf TEXTO_CLICK
+
+
+
+        form.Size = New Point(1256, 856)
+        form.Location = New Point(3, 3)
+        form.BackColor = Color.Navy
+        menu.Location = New Point(3, 3)
+        menu.Size = New Point(1250, 23)
+        menu.BackColor = Color.Transparent
+        menu.ForeColor = Color.White
+        menu.Dock = DockStyle.Bottom
+        menu.Stretch = True
+        menu.LayoutStyle = ToolStripLayoutStyle.Flow
+        menu.Dock = DockStyle.Bottom
+
+        net.ScriptErrorsSuppressed = 1
+        net.Location = New Point(3, 70)
+        net.Size = New Point(1250, 718)
+        net.Dock = DockStyle.Top
+        net.Anchor = AnchorStyles.Top
+        net.Navigate("http://www.google.com")
+        'Net.Dock = DockStyle.Fill
+
+        BarraProgresso.Location = New Point(3, 783)
+        BarraProgresso.Size = New Point(1250, 10)
+        BarraProgresso.Dock = DockStyle.Bottom
+        'BarraProgresso.Anchor = AnchorStyles.None
+
+        painel.Location = New Point(3, 26)
+        painel.BackColor = Color.Black
+        painel.Size = New Point(1250, 46)
+        painel.Dock = DockStyle.Bottom
+        'painel.Anchor = AnchorStyles.Top
+
+        botao1.Size = New Point(40, 30)
+        botao1.Location = New Point(96, 3)
+        botao1.BackgroundImage = Image.FromFile("D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO - Com Guias\Vasco Da Gama\Images\adição.png")
+        botao1.BackgroundImageLayout = ImageLayout.Stretch
+        botao1.FlatStyle = FlatStyle.Standard
+        botao1.BackColor = Color.LightGray
+        AddHandler botao1.Click, AddressOf BOTAO_ADD
+
+        botao2.Size = New Point(40, 30)
+        botao2.Location = New Point(152, 3)
+        botao2.BackgroundImage = Image.FromFile("D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO - Com Guias\Vasco Da Gama\Images\home-57.png")
+        botao2.BackgroundImageLayout = ImageLayout.Stretch
+        botao2.FlatStyle = FlatStyle.Standard
+        botao2.BackColor = Color.LightGray
+        botao3.Size = New Point(40, 30)
+        botao3.Location = New Point(208, 3)
+        botao3.BackgroundImage = Image.FromFile("D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO - Com Guias\Vasco Da Gama\Images\Botoes_51__refresh_48.png")
+        botao3.BackgroundImageLayout = ImageLayout.Stretch
+        botao3.FlatStyle = FlatStyle.Standard
+        botao3.BackColor = Color.LightGray
+        botao4.Size = New Point(40, 30)
+        botao4.Location = New Point(264, 3)
+        botao4.BackgroundImage = Image.FromFile("D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO - Com Guias\Vasco Da Gama\Images\setas_2551_Fleche_Gauche.png")
+        botao4.BackgroundImageLayout = ImageLayout.Stretch
+        botao4.FlatStyle = FlatStyle.Standard
+        botao4.BackColor = Color.LightGray
+        botao5.Size = New Point(40, 30)
+        botao5.Location = New Point(320, 3)
+        botao5.BackgroundImage = Image.FromFile("D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO - Com Guias\Vasco Da Gama\Images\setas_2555_Fleche_Droite.png")
+        botao5.BackgroundImageLayout = ImageLayout.Stretch
+        botao5.FlatStyle = FlatStyle.Standard
+        botao5.BackColor = Color.LightGray
+        botao6.Size = New Point(40, 30)
+        botao6.Location = New Point(376, 3)
+        botao6.BackgroundImage = Image.FromFile("D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO - Com Guias\Vasco Da Gama\Images\Botoes_Site_5739_Knob_Search.png")
+        botao6.BackgroundImageLayout = ImageLayout.Stretch
+        botao6.FlatStyle = FlatStyle.Standard
+        botao6.BackColor = Color.LightGray
+
+
+        Caixa.Location = New Point(426, 5)
+        Caixa.BackColor = Color.White
+        Caixa.Size = New Point(812, 26)
+        Caixa.Multiline = True
+        'Caixa.Text = Me.WebBrowser1.Url.ToString
+        Caixa.Focus()
+        Caixa.SelectAll()
+        Caixa.Select()
+
+
+
+
+        ToolStripMenuItem1.TextDirection = ToolStripTextDirection.Horizontal
+        ToolStripMenuItem1.BackColor = Color.DarkBlue
+        ToolStripMenuItem1.ForeColor = Color.White
+        ToolStripMenuItem1.Text = "Arquivo"
+        ToolStripMenuItem1.Size = New Point(61, 19)
+
+        ToolStripMenuItem2.TextDirection = ToolStripTextDirection.Horizontal
+        ToolStripMenuItem2.BackColor = Color.DarkBlue
+        ToolStripMenuItem2.ForeColor = Color.White
+        ToolStripMenuItem2.Text = "Sobre"
+        ToolStripMenuItem2.Size = New Point(61, 19)
+        'submenu2.Checked = form2.ShowDialog
+
+
+        ConfiguraçõesToolStripMenuItem.TextDirection = ToolStripTextDirection.Horizontal
+        ConfiguraçõesToolStripMenuItem.BackColor = Color.DarkBlue
+        ConfiguraçõesToolStripMenuItem.ForeColor = Color.White
+        ConfiguraçõesToolStripMenuItem.Text = "Configurações"
+        ConfiguraçõesToolStripMenuItem.Size = New Point(61, 19)
+
+
+
+        SairToolStripMenuItem.TextDirection = ToolStripTextDirection.Horizontal
+        SairToolStripMenuItem.BackColor = Color.DarkBlue
+        SairToolStripMenuItem.ForeColor = Color.White
+        SairToolStripMenuItem.Text = "Sair"
+        SairToolStripMenuItem.Size = New Point(61, 19)
+
+
+
+
+
+        ToolStripMenuItem4.TextDirection = ToolStripTextDirection.Horizontal
+        ToolStripMenuItem4.BackColor = Color.DarkBlue
+        ToolStripMenuItem4.ForeColor = Color.White
+        ToolStripMenuItem4.Text = "Versão"
+        ToolStripMenuItem4.Size = New Point(61, 19)
+
+        menu.Items.Add(ToolStripMenuItem1)
+        menu.Items.Add(ToolStripMenuItem2)
+
+        ToolStripMenuItem1.DropDownItems.Add(ConfiguraçõesToolStripMenuItem)
+        ToolStripMenuItem1.DropDownItems.Add(SairToolStripMenuItem)
+        ToolStripMenuItem2.DropDownItems.Add(ToolStripMenuItem4)
+
+        form.Text = "+ Vasco da Gama"
+        form.Name = "form1"
+
+
+        form.Controls.Add(net)
+        'menu.Controls.Add(submenu1)
+
+
+        form.Controls.Add(painel)
+        form.Controls.Add(menu)
+        form.Controls.Add(BarraProgresso)
+
+        'painel.Dock = DockStyle.Top
+        BarraProgresso.Dock = DockStyle.Bottom
+        net.Dock = DockStyle.Fill
+        'menu.Controls.Add(submenu1)
+        'form.BorderStyle = BorderStyle.Fixed3D
+        painel.Controls.Add(botao1)
+        painel.Controls.Add(botao2)
+        painel.Controls.Add(botao3)
+        painel.Controls.Add(botao4)
+        painel.Controls.Add(botao5)
+        painel.Controls.Add(botao6)
+        painel.Controls.Add(Caixa)
+        painel.Controls.Add(BarraProgresso)
+        'form.Controls.Add(BarraProgresso)
+        form.Contains(painel)
+
+        TabControl1.TabPages.Add(form)
+        form.BringToFront()
+
+        'TabControl1.SelectedIndex.add(form)
+        TabControl1.Visible = True
+
+        'AddHandler BarraProgresso.VisibleChanged, AddressOf EVENTO_BARRAPROGRESSO
+        'texto.Text = net.Url.ToString()
+        AddHandler net.DocumentCompleted, AddressOf NET_DOCUMENTCOMPLETE

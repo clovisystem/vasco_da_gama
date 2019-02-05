@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VascoDaGama
+</name>
+</assembly>
+<members>
+<member name="T:Vasco_Da_Gama.VascoDaGamaDataSet1.favoritosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSet1.favoritosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSet1.favoritosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSet1TableAdapters.favoritosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Vasco_Da_Gama.VascoDaGamaDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Vasco_Da_Gama.VascoDaGamaDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Vasco_Da_Gama.VascoDaGamaDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Vasco_Da_Gama.VascoDaGamaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Vasco_Da_Gama.VascoDaGamaDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Vasco_Da_Gama.VascoDaGamaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Vasco_Da_Gama.VascoDaGamaDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Vasco_Da_Gama.VascoDaGamaDataSet1TableAdapters.TableAdapterManager.UpdateAll(Vasco_Da_Gama.VascoDaGamaDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Vasco_Da_Gama.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Vasco_Da_Gama.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Vasco_Da_Gama.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSet.favoritosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSet.favoritosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSet.favoritosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSetTableAdapters.favoritosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Vasco_Da_Gama.VascoDaGamaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Vasco_Da_Gama.VascoDaGamaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Vasco_Da_Gama.VascoDaGamaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Vasco_Da_Gama.VascoDaGamaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Vasco_Da_Gama.VascoDaGamaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Vasco_Da_Gama.VascoDaGamaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Vasco_Da_Gama.VascoDaGamaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Vasco_Da_Gama.VascoDaGamaDataSetTableAdapters.TableAdapterManager.UpdateAll(Vasco_Da_Gama.VascoDaGamaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Vasco_Da_Gama.VascoDaGamaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,128 @@
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Interop.OsenVistaSuite2010DLL.dll
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Interop.VBA.dll
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.vbproj.ResolveComReference.cache
+Q:\Vasco Da Gama\Vasco Da Gama\bin\Release\Vasco Da Gama.exe.manifest
+Q:\Vasco Da Gama\Vasco Da Gama\bin\Release\Vasco Da Gama.application
+Q:\Vasco Da Gama\Vasco Da Gama\bin\Release\Vasco Da Gama.exe
+Q:\Vasco Da Gama\Vasco Da Gama\bin\Release\Vasco Da Gama.pdb
+Q:\Vasco Da Gama\Vasco Da Gama\bin\Release\Vasco Da Gama.xml
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\ResolveAssemblyReference.cache
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form1.resources
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form2.resources
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form3.resources
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Resources.resources
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\GenerateResource.read.1.tlog
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\GenerateResource.write.1.tlog
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.exe.manifest
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.application
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.exe
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.xml
+Q:\Vasco Da Gama\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.pdb
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.OsenVistaSuite2010DLL.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.VBA.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.vbproj.ResolveComReference.cache
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.exe
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.xml
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.pdb
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.exe.manifest
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.application
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.exe
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.pdb
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.xml
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\ResolveAssemblyReference.cache
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form1.resources
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form2.resources
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form3.resources
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Resources.resources
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\GenerateResource.read.1.tlog
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\GenerateResource.write.1.tlog
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.exe.manifest
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.application
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.Acrobat.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.AcrobatAccessLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.AcroBrokerLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.ACROIEHELPERLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.AcroIEHelperShimLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.AcroPDFLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.ActiveReportsPDFExport.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.ADODB.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.ADOMD.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.AMovie.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.BrowsePanes.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.commonLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.DWSetupPlayer.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.EmailObjectLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.ErrorStackLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.EventSystemLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.FileServerLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.FileViewLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.FindNetPrintersLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.FlashAccessibility.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.FlashBrokerLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.GrooveSiteClientActiveX.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.IETAGLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.IEXTagLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.JAVAWEBSTARTLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.PluginDialogs.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.ProEngine.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.QTActiveXPlugin.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.QTOControlLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.QTOLibrary.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.QTUIPanelControlLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.QuickTimePlayerLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.RoxSKUAboutDlgLib.dll
+Q:\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Interop.WLRemoteEnableLib.dll
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.exe.manifest
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.application
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.exe
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.pdb
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.xml
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\ResolveAssemblyReference.cache
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form1.resources
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form2.resources
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form3.resources
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Resources.resources
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\GenerateResource.read.1.tlog
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\GenerateResource.write.1.tlog
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.exe.manifest
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.application
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.exe
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.xml
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.pdb
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.exe.manifest
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.application
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.exe
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.pdb
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.xml
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\ResolveAssemblyReference.cache
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form1.resources
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form2.resources
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form3.resources
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form4.resources
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Resources.resources
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\GenerateResource.read.1.tlog
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\GenerateResource.write.1.tlog
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.exe.manifest
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.application
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.exe
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.xml
+H:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.pdb
+D:\PROJETOS\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form4.resources
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.exe
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.xml
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.pdb
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.exe.manifest
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.application
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.exe
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.pdb
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\bin\Release\Vasco Da Gama.xml
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\ResolveAssemblyReference.cache
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form1.resources
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form2.resources
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form3.resources
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Form4.resources
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco_Da_Gama.Resources.resources
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\GenerateResource.read.1.tlog
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\GenerateResource.write.1.tlog
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.exe.manifest
+E:\TEMP\SISTEMAS\VB.NET\Vasco Da Gama - NOVO\Vasco Da Gama\obj\x86\Release\Vasco Da Gama.application

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="Vasco Da Gama.exe" version="1.0.0.4" publicKeyToken="19e8ec151ecc6a7a" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="caravela[1].ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Vasco Da Gama" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Vasco Da Gama.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Vasco Da Gama.exe" size="1830912">
+      <assemblyIdentity name="Vasco Da Gama" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Z+g6ZkHWAqPnM8QZMINiyxJ7GKo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="caravela[1].ico" size="353118">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8RUZg4b2Ux5Ej66UW+vjzXGWUAc=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=P363211\Aluno" issuerKeyHash="e3c5f8dfbbb1068a20430631c0efd36ee1d95802" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>78m4ktLyHbcY/F0cxc/W85ImJZI=</DigestValue></Reference></SignedInfo><SignatureValue>BU5GNF8FPgVicAJdA2LCtwIQnr0s4taHLRRzV2iNw5FzPYLa3jJ0r6EQ43797/ZusDO0zCmm2zqKXJl0xZqYqfUXKSDbjDAa+mfexPDLoq2132MwvoGlbNDJF7Yu1x9JLZUNXQG4ehjKbjMoepVuiLcP0vJQ0mmfnyrFWPDnsmc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sVu9eu2uzupp0QqeQ1st14zDXJ1ur/3cKgVY4ty5hrakFvCLhX7ozvmvHyXR4V8goGt7XxUxcfgeICjjU+0YtDxtkkE1ubPMC1O4u7Ee7E/hyI8WNp8VwgSnLtbILvKkgwk/3mc9LrRPmkIIiAilYZwZQ+SCqCNtDRprw9r8PlU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="92252692f3d6cfc51c5dfc18b71df2d292b8c9ef" Description="" Url=""><as:assemblyIdentity name="Vasco Da Gama.exe" version="1.0.0.4" publicKeyToken="19e8ec151ecc6a7a" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=P363211\Aluno</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>g1Q/pRiqp3GbSISQlU35/9IHxQs=</DigestValue></Reference></SignedInfo><SignatureValue>L/ljw/AVhdkHd/NjTTPVJu/P63Fpxu9n3jPLwpFPA6zlAfomUWafTDQ2eeWtsXYKMgA/OQ6tkZuOTbzq40855PU6qjY2MD72Y+JuxSccxMstuIqzL7j+vGhfRyn1a9AX+9WagZzVZLvw04TL4wUz35q4iUt9/U6CchB/+lUQq+Q=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sVu9eu2uzupp0QqeQ1st14zDXJ1ur/3cKgVY4ty5hrakFvCLhX7ozvmvHyXR4V8goGt7XxUxcfgeICjjU+0YtDxtkkE1ubPMC1O4u7Ee7E/hyI8WNp8VwgSnLtbILvKkgwk/3mc9LrRPmkIIiAilYZwZQ+SCqCNtDRprw9r8PlU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQFS4CcwtzKrpAB20jpeOvuzANBgkqhkiG9w0BAQUFADAlMSMwIQYDVQQDHhoAUAAzADYAMwAyADEAMQBcAEEAbAB1AG4AbzAeFw0xMzA5MDYyMjM2MzhaFw0xNDA5MDcwNDM2MzhaMCUxIzAhBgNVBAMeGgBQADMANgAzADIAMQAxAFwAQQBsAHUAbgBvMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCxW7167a7O6mnRCp5DWy3XjMNcnW6v/dwqBVji3LmGtqQW8IuFfujO+a8fJdHhXyCga3tfFTFx+B4gKONT7Ri0PG2SQTW5s8wLU7i7sR7sT+HIjxY2nxXCBKcu1sgu8qSDCT/eZz0utE+aQgiICKVhnBlD5IKoI20NGmvD2vw+VQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAKq8Nsayaz0bkK0UUj7rZ83YNz8/fhx+0zu10A8o/1DEBjIniAGMqy1PwatAjFuK8u1W53N+DLz/XwTFA7MlyCKYJoYt9lY3anMvAk7ZHsrfj8lT1e23P7EFtzpRrw2GIfqPyqsWiZITdo6qKWYuKxNcuYIVmFUs7TRRVtYoXyFE</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

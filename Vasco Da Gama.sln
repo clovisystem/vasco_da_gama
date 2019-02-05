@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Vasco Da Gama", "Vasco Da Gama\Vasco Da Gama.vbproj", "{E5003465-30F3-4200-B5D0-124CBADD6643}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Vasco da Gama - O Navegador", "SETUP\Vasco da Gama - Setup\Vasco da Gama - Setup.vdproj", "{310B639E-426D-4C44-BDE3-F68DF0527491}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Vasco da Gama - Install", "Vasco da Gama - Install\Vasco da Gama - Install.vdproj", "{573D4E57-214A-4E97-B936-EE8846905959}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Vasco da gama - Installer 04-02-2019", "Vasco da gama - Installer 04-02-2019\Vasco da gama - Installer 04-02-2019.vdproj", "{DB57058D-A8AC-4BEE-AE2F-07CD7CDA5018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5003465-30F3-4200-B5D0-124CBADD6643}.CD_ROM|x86.ActiveCfg = Release|x86
+		{E5003465-30F3-4200-B5D0-124CBADD6643}.CD_ROM|x86.Build.0 = Release|x86
+		{E5003465-30F3-4200-B5D0-124CBADD6643}.Debug|x86.ActiveCfg = Debug|x86
+		{E5003465-30F3-4200-B5D0-124CBADD6643}.Debug|x86.Build.0 = Debug|x86
+		{E5003465-30F3-4200-B5D0-124CBADD6643}.DVD-5|x86.ActiveCfg = Debug|x86
+		{E5003465-30F3-4200-B5D0-124CBADD6643}.DVD-5|x86.Build.0 = Debug|x86
+		{E5003465-30F3-4200-B5D0-124CBADD6643}.Release|x86.ActiveCfg = Release|x86
+		{E5003465-30F3-4200-B5D0-124CBADD6643}.Release|x86.Build.0 = Release|x86
+		{E5003465-30F3-4200-B5D0-124CBADD6643}.SingleImage|x86.ActiveCfg = Release|x86
+		{E5003465-30F3-4200-B5D0-124CBADD6643}.SingleImage|x86.Build.0 = Release|x86
+		{310B639E-426D-4C44-BDE3-F68DF0527491}.CD_ROM|x86.ActiveCfg = Release
+		{310B639E-426D-4C44-BDE3-F68DF0527491}.Debug|x86.ActiveCfg = Debug
+		{310B639E-426D-4C44-BDE3-F68DF0527491}.DVD-5|x86.ActiveCfg = Debug
+		{310B639E-426D-4C44-BDE3-F68DF0527491}.Release|x86.ActiveCfg = Release
+		{310B639E-426D-4C44-BDE3-F68DF0527491}.SingleImage|x86.ActiveCfg = Release
+		{573D4E57-214A-4E97-B936-EE8846905959}.CD_ROM|x86.ActiveCfg = Release
+		{573D4E57-214A-4E97-B936-EE8846905959}.Debug|x86.ActiveCfg = Debug
+		{573D4E57-214A-4E97-B936-EE8846905959}.DVD-5|x86.ActiveCfg = Debug
+		{573D4E57-214A-4E97-B936-EE8846905959}.Release|x86.ActiveCfg = Release
+		{573D4E57-214A-4E97-B936-EE8846905959}.SingleImage|x86.ActiveCfg = Release
+		{DB57058D-A8AC-4BEE-AE2F-07CD7CDA5018}.CD_ROM|x86.ActiveCfg = Release
+		{DB57058D-A8AC-4BEE-AE2F-07CD7CDA5018}.Debug|x86.ActiveCfg = Debug
+		{DB57058D-A8AC-4BEE-AE2F-07CD7CDA5018}.DVD-5|x86.ActiveCfg = Debug
+		{DB57058D-A8AC-4BEE-AE2F-07CD7CDA5018}.Release|x86.ActiveCfg = Release
+		{DB57058D-A8AC-4BEE-AE2F-07CD7CDA5018}.SingleImage|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
